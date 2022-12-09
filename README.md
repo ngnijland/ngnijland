@@ -1,7 +1,7 @@
 # Niek Nijland - @ngnijland
 
 ### Front-end developer based in The Netherlands
-* 🏢 Working full-time at Betty Blocks
+* 🏢 Working full-time at Polarsteps
 * 👨‍💻 Currently doing side projects with:
   * [Gatsby](https://www.gatsbyjs.com/)
   * [SanityIO](https://www.sanity.io/)
